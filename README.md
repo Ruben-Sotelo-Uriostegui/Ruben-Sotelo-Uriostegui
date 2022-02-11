@@ -7,7 +7,7 @@
 |Frameworks      |Angular,.Net Core                     |
 |Platforms       |Microsoft Visual Studio .Net          |
 |DataBases       |Microsoft Sql Server(SSIS)            |
-|Lnaguajes       |C#,Visual Basic,javascript,Typescript |  
+|Languajes       |C#,Visual Basic,javascript,Typescript |  
 
 ### I hope you are having a great day programming!✨  <img src="https://acegif.com/wp-content/uploads/cat-typing-12.gif" width="60" height="60" />
 ### we will collaborate together in the best way!💞️
